@@ -8,7 +8,7 @@ function Projects() {
       <h2 className='project-name'>Mis proyectos.</h2>
       <div className="project-grid">
         <div className="project-card">
-          <img src="../../public/ecommerce-cap.webp" alt="E-commerce Project" />
+          <img src="/public/images/ecommerce-cap.webp" alt="E-commerce Project" />
           <h4>Proyecto E-Commerce.</h4>
           <p>Proceso CRUD: Gestión de inventario, cesta de compra, autenticación de usuarios con JWTbearer, gestión de reseñas. Documentación de APIS con SwaggerUI y control de versiones con Git.</p>
           <div className="project-tags">
