@@ -29,9 +29,9 @@
   }
   
     @keyframes type {
-        0% { width: 15% }
-        50% { width: 37.5% }
-        100% { width: 15% }
+        0% { width: 0% }
+        50% { width: 17rem }
+        100% { width: 0% }
     }
 
     @keyframes blink {
