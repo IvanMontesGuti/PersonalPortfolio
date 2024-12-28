@@ -13,7 +13,7 @@ function Hero() {
       <p>Soy un estudiante de Desarrollo de aplicaciones web, disfruto de la programación como herramienta para transformar ideas en soluciones funcionales a través de la lógica y creatividad.
       </p>
       <div className="cta-buttons">
-        <a href="/assets/pdf/cv.pdf" download="cv.pdf"><button className="btn btn-outline">CURRÍCULUM</button></a>
+        <a href="/pdf/cv.pdf" download="cv.pdf"><button className="btn btn-outline">CURRÍCULUM</button></a>
         <a href="#projects"><button className="btn btn-primary">PROYECTOS</button></a>
       </div>
     </section>
