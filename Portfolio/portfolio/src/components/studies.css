@@ -1,0 +1,44 @@
+.studies-timeline {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  }
+
+  .studies-name1{
+    max-width: 1200px;
+  margin: 0 auto;
+    padding: 0 1rem;
+    font-family: 'Handjet', sans-serif;
+  }
+  
+  .studies-name{
+    max-width: 1200px;
+  margin: 0 auto;
+    padding: 0 1rem;
+    font-family: 'Montserrat', sans-serif;
+  }
+  .study-item {
+    display: block;
+    gap: 0rem 1rem;
+  }
+  
+  .study-period {
+    width: 100px;
+    color: rgba(255, 255, 255, 0.7);
+  }
+  
+  .study-content h4 {
+    margin-bottom: 0.5rem;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.25rem;
+  }
+  
+  .study-content p {
+    color: rgba(255, 255, 255, 0.7);
+
+  }
+  
+  
