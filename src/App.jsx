@@ -14,12 +14,12 @@ function App() {
       <Navigation />
       <main>
         <Hero />
-        <img className='hands' src="/public/images/footerhands.webp" alt="hands" />
+        <img className='hands' src="/images/footerhands.webp" alt="hands" />
         
         <Projects />
         <Technologies />
         <Studies />
-        <img className='hands' src="/public/images/footerhands.webp" alt="hands2" />
+        <img className='hands' src="/images/footerhands.webp" alt="hands2" />
         <Contact />
       </main>
     </div>
