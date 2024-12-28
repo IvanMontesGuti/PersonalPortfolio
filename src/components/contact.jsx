@@ -14,12 +14,12 @@ function Contact() {
         <a href="https://www.linkedin.com/in/ivanmontesguti/" target='_blank' className="contact-item">
           <i className="icon-linkedin"></i>
           LinkedIn
-          <img className='icon-linkedin' src="/public/images/linkedin.svg" alt="linkedin logo" />
+          <img className='icon-linkedin' src="/images/linkedin.svg" alt="linkedin logo" />
         </a>
         <a href="https://github.com/IvanMontesGuti" target='_blank' className="contact-item">
           <i className="icon-github"></i>
           GitHub
-          <img className='icon-github' src="/public/images/github.svg" alt="github logo" />
+          <img className='icon-github' src="/images/github.svg" alt="github logo" />
         </a>
       </div>
     </section>

@@ -8,7 +8,7 @@ function Projects() {
       <h2 className='project-name'>Mis proyectos.</h2>
       <div className="project-grid">
         <div className="project-card">
-          <img src="/public/images/ecommerce-cap.webp" alt="E-commerce Project" />
+          <img src="/images/ecommerce-cap.webp" alt="E-commerce Project" />
           <h4>Proyecto E-Commerce.</h4>
           <p>Proceso CRUD: Gestión de inventario, cesta de compra, autenticación de usuarios con JWTbearer, gestión de reseñas. Documentación de APIS con SwaggerUI y control de versiones con Git.</p>
           <div className="project-tags">
@@ -29,7 +29,7 @@ function Projects() {
           
         </div>
         <div className="project-card">
-          <img src="/public/images/port.webp" alt="Portfolio Project" />
+          <img src="/images/port.webp" alt="Portfolio Project" />
           <h4>Proyecto Portfolio.</h4>
           <p>Diseño en figma con optimización del rendimiento, accesibilidad para todos los usuarios, creando una experiencia de usuario agradable en dispositivos móviles y de escritorio con un diseño responsive. </p>
           <div className="project-tags">
@@ -46,7 +46,7 @@ function Projects() {
           
         </div>
         <div className="project-card">
-          <img className='inProcess' src="/public/images/second.webp" alt="Real time Project" />
+          <img className='inProcess' src="/images/second.webp" alt="Real time Project" />
           <h4>Proyecto Aplicación en tiempo real.</h4>
           <p>Uso de WebSockets para el manejo de comunicaciones en tiempo real, aún en proceso...</p>
           <div className="project-tags">

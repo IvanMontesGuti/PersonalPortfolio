@@ -6,18 +6,18 @@ function Technologies() {
 
 
   const techs = [
-    { name: "HTML", icon: "/public/images/html.svg" },
-    { name: "CSS", icon: "/public/images/css.svg" },
-    { name: "JavaScript", icon: "/public/images/js.svg" },
-    { name: "React", icon: "/public/images/react.svg" },
-    { name: ".NET", icon: "/public/images/asp.svg" },
-    { name: "C#", icon: "/public/images/net.svg" },
-    { name: "Java", icon: "/public/images/java.svg" },
-    { name: "AWS", icon: "/public/images/aws.svg" },
-    { name: "SQL Server", icon: "/public/images/sql.svg" },
-    { name: "Figma", icon: "/public/images/figma.svg" },
-    { name: "GitHub", icon: "/public/images/github.svg" },
-    { name: "Git", icon: "/public/images/git.svg" },
+    { name: "HTML", icon: "/images/html.svg" },
+    { name: "CSS", icon: "/images/css.svg" },
+    { name: "JavaScript", icon: "/images/js.svg" },
+    { name: "React", icon: "/images/react.svg" },
+    { name: ".NET", icon: "/images/asp.svg" },
+    { name: "C#", icon: "/images/net.svg" },
+    { name: "Java", icon: "/images/java.svg" },
+    { name: "AWS", icon: "/images/aws.svg" },
+    { name: "SQL Server", icon: "/images/sql.svg" },
+    { name: "Figma", icon: "/images/figma.svg" },
+    { name: "GitHub", icon: "/images/github.svg" },
+    { name: "Git", icon: "/images/git.svg" },
   ]
 
   
