@@ -1,5 +1,5 @@
 import React from 'react'
-import './Studies.css'
+import './studies.css'
 
 function Studies() {
   const studies = [

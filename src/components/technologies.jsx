@@ -1,10 +1,9 @@
-import React, {useState} from 'react'
-import './Technologies.css'
+import React from 'react'
+import './technologies.css'
 
 
 function Technologies() {
 
-    const [isHovered, setIsHovered] = useState(false);
 
   const techs = [
     { name: "HTML", icon: "../../public/html.svg" },
