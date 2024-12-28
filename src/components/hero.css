@@ -21,7 +21,7 @@
     font-size: 1.5rem;
     margin-bottom: 1rem;
     font-weight: 300;
-    animation: type 5s steps(12, end) infinite alternate,blink .75s step-end infinite;
+    animation: type 5s steps(22, end) infinite alternate,blink .75s step-end infinite;
     overflow: hidden;
     border-right: .15em solid rgb(179, 7, 156);
     white-space: nowrap;
@@ -29,9 +29,9 @@
   }
   
     @keyframes type {
-        0% { width: 9% }
-        50% { width: 17.5% }
-        100% { width: 9% }
+        0% { width: 15% }
+        50% { width: 37.5% }
+        100% { width: 15% }
     }
 
     @keyframes blink {
