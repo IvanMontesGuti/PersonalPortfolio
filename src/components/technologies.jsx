@@ -6,18 +6,18 @@ function Technologies() {
 
 
   const techs = [
-    { name: "HTML", icon: "../../public/html.svg" },
-    { name: "CSS", icon: "../../public/css.svg" },
-    { name: "JavaScript", icon: "../../public/js.svg" },
-    { name: "React", icon: "../../public/react.svg" },
-    { name: ".NET", icon: "../../public/asp.svg" },
-    { name: "C#", icon: "../../public/net.svg" },
-    { name: "Java", icon: "../../public/java.svg" },
-    { name: "AWS", icon: "../../public/aws.svg" },
-    { name: "SQL Server", icon: "../../public/sql.svg" },
-    { name: "Figma", icon: "../../public/figma.svg" },
-    { name: "GitHub", icon: "../../public/github.svg" },
-    { name: "Git", icon: "../../public/git.svg" },
+    { name: "HTML", icon: "/public/images/html.svg" },
+    { name: "CSS", icon: "/public/images/css.svg" },
+    { name: "JavaScript", icon: "/public/images/js.svg" },
+    { name: "React", icon: "/public/images/react.svg" },
+    { name: ".NET", icon: "/public/images/asp.svg" },
+    { name: "C#", icon: "/public/images/net.svg" },
+    { name: "Java", icon: "/public/images/java.svg" },
+    { name: "AWS", icon: "/public/images/aws.svg" },
+    { name: "SQL Server", icon: "/public/images/sql.svg" },
+    { name: "Figma", icon: "/public/images/figma.svg" },
+    { name: "GitHub", icon: "/public/images/github.svg" },
+    { name: "Git", icon: "/public/images/git.svg" },
   ]
 
   

@@ -29,7 +29,7 @@ function Projects() {
           
         </div>
         <div className="project-card">
-          <img src="../../public/port.webp" alt="Portfolio Project" />
+          <img src="/public/images/port.webp" alt="Portfolio Project" />
           <h4>Proyecto Portfolio.</h4>
           <p>Diseño en figma con optimización del rendimiento, accesibilidad para todos los usuarios, creando una experiencia de usuario agradable en dispositivos móviles y de escritorio con un diseño responsive. </p>
           <div className="project-tags">
@@ -46,7 +46,7 @@ function Projects() {
           
         </div>
         <div className="project-card">
-          <img className='inProcess' src="../../public/second.webp" alt="Real time Project" />
+          <img className='inProcess' src="/public/images/second.webp" alt="Real time Project" />
           <h4>Proyecto Aplicación en tiempo real.</h4>
           <p>Uso de WebSockets para el manejo de comunicaciones en tiempo real, aún en proceso...</p>
           <div className="project-tags">
