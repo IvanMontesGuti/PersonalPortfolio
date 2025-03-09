@@ -12,12 +12,17 @@ function Technologies() {
     { name: "React", icon: "/images/react.svg" },
     { name: ".NET", icon: "/images/asp.svg" },
     { name: "C#", icon: "/images/net.svg" },
+    { name: "Next.js", icon: "/images/next.svg" },
+    { name: "Typescript", icon: "/images/types.svg" },
     { name: "Java", icon: "/images/java.svg" },
     { name: "AWS", icon: "/images/aws.svg" },
     { name: "SQL Server", icon: "/images/sql.svg" },
     { name: "Figma", icon: "/images/figma.svg" },
     { name: "GitHub", icon: "/images/github.svg" },
     { name: "Git", icon: "/images/git.svg" },
+    { name: "Tailwind CSS", icon: "/images/tail.svg" },
+    { name: "JSON Web Token", icon: "/images/jwt.svg" },
+    { name: "WordPress", icon: "/images/word.svg" },
   ]
 
   

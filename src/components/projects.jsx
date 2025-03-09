@@ -46,16 +46,17 @@ function Projects() {
           
         </div>
         <div className="project-card">
-          <img className='inProcess' src="/images/second.webp" alt="Real time Project" />
-          <h4>Proyecto Aplicación en tiempo real.</h4>
-          <p>Uso de WebSockets para el manejo de comunicaciones en tiempo real, aún en proceso...</p>
+          <img src="/images/oca.png" alt="Real time Project" />
+          <h4>Proyecto Juego Web Online.</h4>
+          <p>Uso de WebSockets para el manejo de comunicaciones en tiempo real, gestión CRUD, base de datos con entity framework.</p>
           <div className="project-tags">
-            <span className="tag">React</span>
-            <span className="tag">.NET</span>
-            <span className="tag">...</span>
-            <div className="cta-buttons3">
-        <a href=""  ><button className="btn btn-outline">Visitar</button></a>
-        <a href="" target='_blank'><button className="btn btn-primary">Repositorio</button></a>
+            <span className="tag">Next.js</span>
+            <span className="tag">Typescript</span>
+            <span className="tag">ASP.NET</span>
+            <span className="tag">Tailwind CSS</span>
+            <div className="cta-buttons2">
+
+        <a href="https://github.com/IvanMontesGuti/Oca-Project" target='_blank'><button className="btn btn-primary">Repositorio</button></a>
         
       </div>
       
